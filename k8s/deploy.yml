@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: mediplus
-          image: abintony/mediplus:latest
+          image: abintony/mediplus:1
           ports:
             - containerPort: 8000
